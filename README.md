@@ -24,4 +24,4 @@ Each scenario includes the following visualizations:
 
 ## Data Preparation
 
-Download the pre-trained trajectory prediction model DenseTNT and pre-trained adversarial policy which is used in Perturbation Trigger phase of PDIAG in https://drive.google.com/drive/folders/10Ns2Fd5SfV7DLJE79lrpSNXtgncrUhPV?usp=drive_link
+Download the pre-trained trajectory prediction model DenseTNT and pre-trained adversarial policy which is used in Perturbation Trigger phase of PDIAG in https://drive.google.com/drive/folders/10Ns2Fd5SfV7DLJE79lrpSNXtgncrUhPV?usp=sharing
